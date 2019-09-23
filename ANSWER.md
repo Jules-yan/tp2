@@ -6,7 +6,7 @@ Prénom : Jules-Yan
 # 1.
 Citez deux avantages du PaaS sur le IaaS ?
 
-Le premier avantage du PaaS sur le IaaS est le fait que ce n'est pas à l'utilisateur de s'occuper du versionning, il ne doit pas faire les montée de version, ni d'installation de patch
+Le premier avantage du PaaS sur le IaaS est le fait que ce n'est pas à l'utilisateur de s'occuper du versionning, il ne doit pas faire les montée de version, ni d'installation de patch.
 Le deuxième avantage du PaaS sur le IaaS est que les développeurs peuvent personnaliser les applications à leur souhait. Le service PaaS rend le développement, le test et le déploiement d'applications rapides, simples et rentables.
 
 # 2.
