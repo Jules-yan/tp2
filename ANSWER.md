@@ -35,5 +35,4 @@ Comment s'appelle la plus petite unité de compute déployable en Serverless ?
 
 Le Function a as Service
 
-Les fonctions sont les plus petites unitées. De meme que les 3 propriétés citées ci dessus, une fonction est éphémère (son life cycle ne dure que le temps de la requête), est Scalable (la plateforme pourra supporter la charge si elle augmente)
-
+Les fonctions sont les plus petites unitées.Elle possède d'ailleurs les 3 propriétés citées ci dessus (scalable, ephemere notamment)
