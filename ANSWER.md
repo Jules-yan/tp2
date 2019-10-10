@@ -24,7 +24,9 @@ L’architecture serverless est un modèle dans lequel le fournisseur de service
 Citez les trois propriétés désirable du Serverless ?
 
 -Scalabilité dynamique : Résilience supportée nativement par la plateforme
+
 -Gestion fine : Pay-per-use sur le cloud
+
 -Ephémère : La plateforme attends les requêtes et n’instancie que les fonctions a la demande, qui ne ”vivent” le temps délivrer le résultat
 
 # 5.
